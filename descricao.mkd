@@ -1,0 +1,10 @@
+# Minha primeira API usdando Flask
+
+# 1 - Criar uma API que disponibiliza a consulta, criação, edição e exclusão de livros
+# 2 - URL base - Localhost.com - EX: youtube.com
+# 3 - Endpoints - 
+    # - localhost/livros (GET)
+    # - localhost/livros/id (GET)    
+    # - localhost/livros/id (PUT)    
+    # - localhost/livros/id (DELETE)    
+# 4 - Quais recursos - Livros    
